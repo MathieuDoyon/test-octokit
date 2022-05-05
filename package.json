@@ -1,0 +1,15 @@
+{
+  "name": "test-octokit",
+  "version": "0.0.0",
+  "description": "test octokit",
+  "main": "server.js",
+  "repository": "git@github.com:MathieuDoyon/test-octokit.git",
+  "author": "Mathieu Doyon <mathieu@nesto.ca>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@fastify/cors": "^7.0.0",
+    "@octokit/core": "^3.6.0",
+    "fastify": "^3.29.0"
+  }
+}
